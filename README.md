@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azrael07
-- 👀 I’m interested in computers and art
+- 👀 I’m interested in computers, arts, game development and deep learning optimizations
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me via twitter @Burhan_Jade
